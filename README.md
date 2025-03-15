@@ -1,6 +1,6 @@
 # News Times
 
-A project demonstrating a news paper page.
+A project demonstrating a news paper page (non-interactive)
 
 Tech Stack:
 
